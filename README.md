@@ -1,2 +1,2 @@
-# Mini_Project-CSS-
+# Mini_Project-CSS
 CSS Mini Project - Photography image Sidebar Menu
